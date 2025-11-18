@@ -162,8 +162,8 @@ Commercial licensing and OEM arrangements are available — contact **Sanctus**.
 
 ---
 
-## 🏛️ About Sanctus
+## 🏛️ About [Sanctus](https://www.sanctus.ca)
 
-**Sanctus** is a technology company for human beings. We builds simple, accessible, transparent, & open infrastructure tools — from micro-scale hardware to agentic software systems.  
+[We are a technology company that puts human beings first](https://www.sanctus.ca). We builds simple, accessible, transparent, & open infrastructure tools — from micro-scale hardware to agentic software systems.  
 FemtoKVM is one of several composable primitives in this ecosystem.
 
