@@ -158,7 +158,7 @@ FemtoKVM uses a **multi-license model** appropriate for open hardware:
 - **Software** (controller tools): **AGPLv3**  
 - **Documentation**: **CC-BY-SA 4.0**
 
-Commercial licensing and OEM arrangements are available — contact **Sanctus**.
+Commercial licensing and OEM arrangements are available — contact **[Sanctus](https://sanctus.ca/contact-us/)**.
 
 ---
 
