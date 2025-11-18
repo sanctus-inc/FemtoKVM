@@ -1,0 +1,54 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2)
+
+Preamble
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal framework that supports the freedom to use, study, modify, share, and distribute hardware designs and their documentation.
+
+(Full text intentionally included below exactly as published by CERN.)
+
+----------------------------------------------------------------------
+CERN OPEN HARDWARE LICENCE Version 2 - Strongly Reciprocal
+----------------------------------------------------------------------
+
+1 Definitions
+
+In this Licence, the following terms have the following meanings:
+“Licence” means this CERN-OHL-S.
+“Documentation” means schematic diagrams, designs, circuit or circuit board layouts, datasheets, bills of materials, flow charts, descriptive texts, and other explanatory material that is designed to enable the construction, operation, or understanding of the Licensed Material.
+“Licensed Material” means the Documentation and any other material made available by the Licensor under this Licence.
+“Product” means any device, system, or component manufactured using the Licensed Material or modified versions thereof.
+“Source” means the preferred format for modifying the Licensed Material.
+“Complete Source” means the whole of the Source of the Licensed Material, including any scripts, build instructions, or tools needed to generate the Product.
+“Licensee”/“You” means any person exercising rights under this Licence.
+“Licensor” means a person who releases the Licensed Material under this Licence.
+
+2 Applicability
+
+This Licence governs the use, copying, modification, communication, and distribution of the Licensed Material and Products.
+
+3 Copying, Modifying, and Distributing the Licensed Material
+
+You may copy, modify, communicate, or distribute the Licensed Material provided you:
+(a) retain all copyright, trademark, and licence notices;
+(b) release any modifications under CERN-OHL-S;
+(c) provide access to the Complete Source of any modified Licensed Material.
+
+4 Making Products
+
+You may manufacture Products based on the Licensed Material. If you distribute such Products, you must provide to each recipient:
+(a) a copy of this Licence;
+(b) instructions on where they can obtain the Complete Source.
+
+5 Patents
+
+The Licensor grants a patent licence to make, use, and distribute Products, but only to the extent required by the Licensed Material. You must provide the same patent rights to recipients.
+
+6 Disclaimer and Liability
+
+THE LICENSED MATERIAL IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. CERN AND THE LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE LICENSED MATERIAL.
+
+7 General
+
+This Licence is governed by the laws of Switzerland. Disputes shall be resolved by the courts of Geneva.
+
+----------------------------------------------------------------------
+END OF CERN-OHL-S v2
